@@ -1,3 +1,3 @@
 # Natours Application
 
-Built using modern technologies: Node.js, Express, MongoDB, Mongoose, and a lot of packages!
+Built using modern technologies: Node.js, Express, MongoDB, Pug, CSS and more!
